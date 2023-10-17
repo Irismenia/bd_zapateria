@@ -11,3 +11,25 @@
  ![relacion](zapateria_6.png "relacion")
  ### Ya culminando se vería así
   ![tablas de datos](zapateria_2.png "tablas de datos")
+
+
+## TALLER DE CLASES
+1# ![tablas de datos](zapateria_7.png "tablas de datos")
+
+2# ![tablas de datos](zapateria_8.png "tablas de datos")
+
+3# ![tablas de datos](zapateria_9.png "tablas de datos")
+
+4# ![tablas de datos](zapateria_10.png "tablas de datos")
+
+5# ![tablas de datos](zapateria_11.png "tablas de datos")
+
+6# ![tablas de datos](zapateria_0.png "tablas de datos")
+
+7# ![tablas de datos](zapateria_12.png "tablas de datos")
+
+8# ![tablas de datos](zapateria_13.png "tablas de datos")
+
+9# ![tablas de datos](zapateria_14.png "tablas de datos")
+
+10# ![tablas de datos](zapateria_15.png "tablas de datos")
